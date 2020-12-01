@@ -1,1 +1,2 @@
+import "./Moive";
 const cinema = () => {};
