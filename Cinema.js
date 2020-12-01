@@ -1,2 +1,4 @@
 import "./Moive";
-const cinema = () => {};
+const cinema = () => {
+  this.film = [];
+};
