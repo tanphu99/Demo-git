@@ -13,5 +13,10 @@ This is project about git
 - staging area
 - git repository
 
-//git checkout
-//git reset
+- git checkout
+- git reset
+
+- github
+- git push
+
+- git config --global credential.helper "cache --timeout=18000"
